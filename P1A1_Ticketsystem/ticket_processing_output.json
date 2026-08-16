@@ -1,0 +1,27 @@
+{
+  "ticketId" : "TKT-2026-08-15-001",
+  "redactedText" : "I'm unable to access my dashboard since this morning.\nI keep getting a 503 error. I have an important client\nmeeting in 30 minutes and need this resolved ASAP.\nI've tried clearing cache and using different browsers\nbut nothing works. This is costing me business.\n",
+  "redactionLog" : [ ],
+  "classification" : {
+    "category" : "technical",
+    "urgency" : "P1",
+    "draftReply" : "We're investigating your issue. Our team will respond shortly.",
+    "confidenceScore" : 0.85,
+    "reasoning" : {
+      "urgencyRationale" : "Critical issue reported",
+      "categoryRationale" : "Technical error",
+      "suggestedActions" : [ ]
+    },
+    "modelVersion" : "gpt-4o-mini",
+    "tokensUsed" : 0,
+    "inferenceTimeMs" : 0
+  },
+  "routing" : {
+    "path" : "HIGH_CONFIDENCE",
+    "draftCanBeUsed" : true,
+    "reviewRequired" : true,
+    "reason" : "High confidence classification",
+    "priority" : "urgent"
+  },
+  "status" : "ready_for_review"
+}

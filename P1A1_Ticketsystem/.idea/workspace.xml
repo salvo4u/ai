@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bba02f08-ad44-4d7c-89c0-4ef4fb0392ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TicketSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI-Ticket-Classification-HLD-LLD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/.idea/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/.mvn/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/TicketPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/LlmClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/TicketModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/main/resources/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/test/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assistant/src/test/java/Open Notebook.onetoc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hld-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hld-flowchart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hld-sequence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticket_processing_output.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3Hxqc3ZoKNmcSUJ6sEnTEBxQ7m3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TicketPipeline.executor": "Run",
+    "Maven.ticket-pipeline [clean].executor": "Run",
+    "Maven.ticket-pipeline [validate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/devworkspaces/AI/Phase1_Project1/TicketSystem",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TicketPipeline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketPipeline" />
+      <module name="ticket-pipeline" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketPipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba02f08-ad44-4d7c-89c0-4ef4fb0392ba" name="Changes" comment="" />
+      <created>1786820143233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786820143233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/LlmClient.java</url>
+          <line>18</line>
+          <properties field="mapper" class="com.suppprt.LlmClient" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
