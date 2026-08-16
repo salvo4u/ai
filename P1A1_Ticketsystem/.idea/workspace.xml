@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba02f08-ad44-4d7c-89c0-4ef4fb0392ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TicketSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI-Ticket-Classification-HLD-LLD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/.idea/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/.mvn/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/TicketPipeline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/LlmClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/java/com/suppprt/TicketModels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/main/resources/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/test/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assistant/src/test/java/Open Notebook.onetoc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hld-architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hld-flowchart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hld-sequence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ticket_processing_output.json" afterDir="false" />
-    </list>
+    <list default="true" id="bba02f08-ad44-4d7c-89c0-4ef4fb0392ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Hxqc3ZoKNmcSUJ6sEnTEBxQ7m3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -67,9 +36,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/devworkspaces/AI/Phase1_Project1/TicketSystem",
+    "last_opened_file_path": "C:/devworkspaces/AI/Phase1_Project1/ai/P1A1_Ticketsystem",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>

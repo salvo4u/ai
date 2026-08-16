@@ -2,7 +2,7 @@
 
 ## Architecture Overview
 
-![Architecture Diagram](hld-sequence.png)
+![Architecture Diagram](hld-architecture.png)
 
 ---
 
