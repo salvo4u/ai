@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/P1A3_RAGChatBot/lib/lombok-1.18.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

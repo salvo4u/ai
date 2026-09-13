@@ -18,6 +18,7 @@ import java.nio.file.Paths;
 import java.time.Instant;
 import java.util.List;
 import java.util.UUID;
+import java.util.stream.DoubleStream;
 
 public  class IngestionPipeline {
 
@@ -92,6 +93,7 @@ public  class IngestionPipeline {
     // ---------- 3 + 4 + 5. Chunk + Embed + Upsert ----------
     private static void ingestToChroma(List<Document> docs) {
         // Embedding model
+        DoubleStream OpenAiEmbeddingModel;
         EmbeddingModel embeddingModel = OpenAiEmbeddingModel.builder()
                 .apiKey(OPENAI_API_KEY)
                 .modelName(EMBEDDING_MODEL)
