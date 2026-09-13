@@ -14,7 +14,7 @@ package com.internal.knowledge.store;
  * (sentence-transformers via ONNX/TensorFlow, etc.) and injecting it
  * into {@link InMemoryVectorStoreService} instead of this class.
  */
-public class HashingEmbeddingService implements EmbeddingService {
+public class HashingEmbeddingService implements com.internal.knowledge.store.EmbeddingService {
     private static final int DEFAULT_DIMENSIONS = 256;
 
     private final int dimensions;
