@@ -1,4 +1,4 @@
-# RAG Evaluation Framework — Project 3
+# RAG Evaluation Framework
 
 ---
 
