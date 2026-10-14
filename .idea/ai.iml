@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/P1A2_SematicSearch/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P1A3_RAGChatBot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P1A1_Ticketsystem/Assistant/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/P2A1_TicketTriage/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

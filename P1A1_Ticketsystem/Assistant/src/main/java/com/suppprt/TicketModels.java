@@ -10,7 +10,6 @@ import java.util.List;
 public class TicketModels {
 
     // ─── Request Models ──────────────────────────────────────────────
-
     public record TicketRequest(
             String ticketId,
             String sourceSystem,
