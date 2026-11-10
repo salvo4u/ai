@@ -1,0 +1,8 @@
+fastapi
+pydantic>=2,<3
+uvicorn[standard]
+pytest
+httpx
+openai
+jsonschema
+time
